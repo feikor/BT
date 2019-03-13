@@ -1,2 +1,4 @@
 # BT
 bt
+
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.sh && sh install.sh
