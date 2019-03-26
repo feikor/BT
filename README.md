@@ -18,3 +18,6 @@ https://blog.csdn.net/joelingwei/article/details/72980886
 component_access_token篇：
 https://blog.csdn.net/joelingwei/article/details/72876760
 https://www.cnblogs.com/dige1993/p/7078351.html
+
+
+https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1453779503&token=&lang=zh_CN
