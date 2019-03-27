@@ -25,3 +25,7 @@ https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_l
 
 精美网页
 https://blog.csdn.net/wangchaoqi1985/article/details/80382187
+
+
+网页微信授权
+https://www.cnblogs.com/0201zcr/p/5133062.html
