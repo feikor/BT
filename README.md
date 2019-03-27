@@ -29,3 +29,13 @@ https://blog.csdn.net/wangchaoqi1985/article/details/80382187
 
 网页微信授权
 https://www.cnblogs.com/0201zcr/p/5133062.html
+
+
+公众平台返回码
+https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433747234
+
+开放平台返回码
+https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419318634&token=&lang=zh_CN
+
+
+
