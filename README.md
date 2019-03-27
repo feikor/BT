@@ -39,3 +39,17 @@ https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_l
 
 http://www.zjychina.cn/p/1238731.html
 
+
+
+我说一下我的SLB方案，我是用多台云主机，来实现大带宽，单独买带宽太贵了。 
+ 
+1台高级方案，专门用来跑程序，用的商业版litespeed保证性能。就是说，所有的后端程序，都是由这台高级方案解决。 
+N台前端，来反向代理后端，使用内网IP，这样没有带宽限制。 
+使用SLB整个N台前端，达到整合N台前端的总带宽，供给SLB使用的目的。 
+ 
+这样，访客访问的时候，首先通过的是SLB，再走过某台前端的nginx，再反向代理到后端的程序。 
+其中某台前端，使用nginx搭配一定程度的缓存，也能增加网站的访问速度。 
+
+
+
+
